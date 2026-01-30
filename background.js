@@ -31,7 +31,7 @@ function updateDataAndRules(data) {
                 "id": 1,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "Berserk.ogg",
+                    "urlFilter": "Berserk*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -47,7 +47,7 @@ function updateDataAndRules(data) {
                 "id": 2,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "Capture.ogg",
+                    "urlFilter": "Capture*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -63,7 +63,7 @@ function updateDataAndRules(data) {
                 "id": 3,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "Check.ogg",
+                    "urlFilter": "Check*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -79,7 +79,7 @@ function updateDataAndRules(data) {
                 "id": 4,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "Confirmation.ogg",
+                    "urlFilter": "Confirmation*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -95,7 +95,7 @@ function updateDataAndRules(data) {
                 "id": 5,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "CountDown0.ogg",
+                    "urlFilter": "CountDown0*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -111,7 +111,7 @@ function updateDataAndRules(data) {
                 "id": 6,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "CountDown1.ogg",
+                    "urlFilter": "CountDown1*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -127,7 +127,7 @@ function updateDataAndRules(data) {
                 "id": 7,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "CountDown2.ogg",
+                    "urlFilter": "CountDown2*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -143,7 +143,7 @@ function updateDataAndRules(data) {
                 "id": 8,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "CountDown3.ogg",
+                    "urlFilter": "CountDown3*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -159,7 +159,7 @@ function updateDataAndRules(data) {
                 "id": 9,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "CountDown4.ogg",
+                    "urlFilter": "CountDown4*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -175,7 +175,7 @@ function updateDataAndRules(data) {
                 "id": 10,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "CountDown5.ogg",
+                    "urlFilter": "CountDown5*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -191,7 +191,7 @@ function updateDataAndRules(data) {
                 "id": 11,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "CountDown6.ogg",
+                    "urlFilter": "CountDown6*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -207,7 +207,7 @@ function updateDataAndRules(data) {
                 "id": 12,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "CountDown7.ogg",
+                    "urlFilter": "CountDown7*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -223,7 +223,7 @@ function updateDataAndRules(data) {
                 "id": 13,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "CountDown8.ogg",
+                    "urlFilter": "CountDown8*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -239,7 +239,7 @@ function updateDataAndRules(data) {
                 "id": 14,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "CountDown9.ogg",
+                    "urlFilter": "CountDown9*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -255,7 +255,7 @@ function updateDataAndRules(data) {
                 "id": 15,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "CountDown10.ogg",
+                    "urlFilter": "CountDown10*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -271,7 +271,7 @@ function updateDataAndRules(data) {
                 "id": 16,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "Defeat.ogg",
+                    "urlFilter": "Defeat*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -287,7 +287,7 @@ function updateDataAndRules(data) {
                 "id": 17,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "Draw.ogg",
+                    "urlFilter": "Draw*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -303,7 +303,7 @@ function updateDataAndRules(data) {
                 "id": 18,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "Error.ogg",
+                    "urlFilter": "Error*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -319,7 +319,7 @@ function updateDataAndRules(data) {
                 "id": 19,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "Explosion.ogg",
+                    "urlFilter": "Explosion*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -335,7 +335,7 @@ function updateDataAndRules(data) {
                 "id": 20,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "GenericNotify.ogg",
+                    "urlFilter": "GenericNotify*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -351,7 +351,7 @@ function updateDataAndRules(data) {
                 "id": 21,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "LowTime.ogg",
+                    "urlFilter": "LowTime*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -367,7 +367,7 @@ function updateDataAndRules(data) {
                 "id": 22,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "Move.ogg",
+                    "urlFilter": "Move*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -383,7 +383,7 @@ function updateDataAndRules(data) {
                 "id": 23,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "NewChallenge.ogg",
+                    "urlFilter": "NewChallenge*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -399,7 +399,7 @@ function updateDataAndRules(data) {
                 "id": 24,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "NewPM.ogg",
+                    "urlFilter": "NewPM*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -415,7 +415,7 @@ function updateDataAndRules(data) {
                 "id": 25,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "OutOfBound.ogg",
+                    "urlFilter": "OutOfBound*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -431,7 +431,7 @@ function updateDataAndRules(data) {
                 "id": 26,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "Select.ogg",
+                    "urlFilter": "Select*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -447,7 +447,7 @@ function updateDataAndRules(data) {
                 "id": 27,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "SocialNotify.ogg",
+                    "urlFilter": "SocialNotify*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -463,7 +463,7 @@ function updateDataAndRules(data) {
                 "id": 28,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "Tournament1st.ogg",
+                    "urlFilter": "Tournament1st*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -479,7 +479,7 @@ function updateDataAndRules(data) {
                 "id": 29,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "Tournament2nd.ogg",
+                    "urlFilter": "Tournament2nd*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -495,7 +495,7 @@ function updateDataAndRules(data) {
                 "id": 30,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "Tournament3rd.ogg",
+                    "urlFilter": "Tournament3rd*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -511,7 +511,7 @@ function updateDataAndRules(data) {
                 "id": 31,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "TournamentOther.ogg",
+                    "urlFilter": "TournamentOther*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
@@ -527,7 +527,7 @@ function updateDataAndRules(data) {
                 "id": 32,
                 "priority": 1,
                 "condition": {
-                    "urlFilter": "Victory.ogg",
+                    "urlFilter": "Victory*.mp3",
                     "resourceTypes": [
                         "xmlhttprequest"
                     ]
